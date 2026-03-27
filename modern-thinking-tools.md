@@ -2,8 +2,6 @@
 
 A Dictionary of Modern Mental Models
 
-编著：万维钢
-
 "本词典部分图片由AI技术生成"
 
 === 第2页 ===
