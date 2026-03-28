@@ -1,6 +1,6 @@
 # Thinking Tools Skill
 
-现代思维工具顾问 Skill，基于万维钢《现代思维工具词典》148个思维工具。
+现代思维工具顾问 Skill，基于《现代思维工具词典》148个思维工具。
 
 ## 安装
 
@@ -32,7 +32,7 @@ cp -r thinking-tools-skill ~/.openclaw/skills/
 
 ## 来源
 
-- 万维钢《现代思维工具词典》148个思维工具
+- 《现代思维工具词典》148个思维工具
 - Skill 设计：OpenClaw AgentSkills 格式
 
 ## License
